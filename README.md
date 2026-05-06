@@ -1,19 +1,30 @@
 <h1 align="center">Hi, I'm Kshitij Saxena 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | AI/ML Enthusiast | Newton School of Technology</b>
+  <a href="https://portfolio-website-blond-ten-30.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Student+%40+Newton+School+of+Technology" 
+    alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
+  <a href="https://portfolio-website-blond-ten-30.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:kshitijsaxenaofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Gmail"/>
   </a>
   <a href="https://github.com/kshitij2212">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/u/KshitijSaxena04/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kshitij2212&label=Profile%20Views&color=0e75b6&style=flat" alt="kshitij2212" />
 </p>
 
 ---
@@ -46,9 +57,22 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 ---
 
 ## 🔥 Featured Projects
+
+### 🌐 [My Developer Portfolio](https://portfolio-website-blond-ten-30.vercel.app/) — Personal Website
+> Built with React · Tailwind CSS · Vite
+
+- Interactive UI with modern design aesthetics, smooth animations, and responsive layout
+- Showcase of my full-stack projects, technical skills, and academic achievements
+- Fully integrated contact form for direct professional communication
 
 ### 🤖 [InterviewIQ](https://interview-iq-nine-neon.vercel.app/) — AI Interview Preparation Platform
 > Built with React · Node.js · MongoDB · Groq AI (Llama 3.3)
